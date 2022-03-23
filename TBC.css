@@ -1,0 +1,82 @@
+html,body{
+    margin: 0em;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    overflow-x: hidden;
+}
+.A1{
+    width: 100%;
+    margin-top:-13vh;
+}
+.A{
+    width: 100%;   
+}
+.test1{
+    text-align: left;
+    margin-bottom: 10em;  
+}
+#button1{
+    background-color: none;
+    border-radius: 2em;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+.page1{
+    background-image: url(img/1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vw 100vh;
+    height: 100vh;
+    margin-top: -13vh;
+}
+.page2{
+    background-image: url(img/2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: 100vw 100vh;
+}
+.page3{
+    background-image: url(img/3.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: 100vw 100vh;
+}
+.page4{
+    background-image: url(img/4.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: 100vw 100vh;
+}
+.page5{
+    background-image: url(img/5.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: 100vw 100vh;
+}
+.f1{
+    padding-left: 2vw;
+    color: white;
+}
+#myBtn{
+    background-color: none;
+    border-radius: 2em;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    justify-content: center;
+    margin-left: 32vw;
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+}
+.f{
+    padding-left: 20vw;
+    color: white;
+}
+.page-footer{
+    height: 10vw;
+}
