@@ -2,7 +2,10 @@ html,body{
     margin: 0em;
     background-color: rgb(0, 0, 0);
     color: white;
-    overflow-x: hidden;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+     padding-right: 1vw; 
 }
 .A1{
     width: 100%;
@@ -16,7 +19,6 @@ html,body{
     margin-bottom: 10em;  
 }
 #button1{
-    background-color: none;
     border-radius: 2em;
     background-color: transparent;
     border-color: white;
@@ -25,10 +27,9 @@ html,body{
 .page1{
     background-image: url(img/1.jpeg);
     background-size: cover;
-    background-repeat: no-repeat;
+     background-repeat: no-repeat; 
     background-position: center;
-    
-    height: 100vh;
+    height:100vh ;
     margin-top: -13vh;
 }
 .page2{
@@ -65,7 +66,6 @@ html,body{
     color: white;
 }
 #myBtn{
-    background-color: none;
     border-radius: 2em;
     background-color: transparent;
     border-color: white;
